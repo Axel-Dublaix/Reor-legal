@@ -1,9 +1,9 @@
-# REOR — pages légales publiques
+# Reor — pages légales publiques
 
-Pages publiques de l'application **REOR** (éditée par Axel Dublaix, France), hébergées via GitHub Pages.
+Pages publiques de l'application **Reor** (éditée par Axel Dublaix, France), hébergées via GitHub Pages.
 Le code source de l'application reste dans un dépôt privé séparé.
 
 - [Politique de confidentialité](./privacy-policy.html)
 - [Suppression de compte](./account-deletion.html)
 
-Contact : axel.dublaix@gmail.com
+Contact : reorstaff@googlegroups.com
